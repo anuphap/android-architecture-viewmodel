@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hi ViewModel</string>
+    <string name="team_a">Team A</string>
+    <string name="default_score">0</string>
+    <string name="add_one_point">+1 point</string>
+    <string name="add_five_point">+5 point</string>
+    <string name="add_three_point">+3 point</string>
+    <string name="reset">Reset</string>
+    <string name="team_b">Team B</string>
+
+
+</resources>
